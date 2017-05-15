@@ -1,0 +1,16 @@
+Norma paso 0: 1.000000
+Norma paso 1: 0.354167
+Norma paso 2: 0.150521
+Norma paso 3: 0.102354
+Norma paso 4: 0.047126
+Norma paso 5: 0.012325
+Norma paso 6: 0.007857
+Norma paso 7: 0.005009
+Norma paso 8: 0.002050
+Norma paso 9: 0.000536
+Norma paso 10: 0.000399
+Norma paso 11: 0.000230
+Norma paso 12: 0.000082
+Numero de iteraciones: 13
+Tiempo de ejecucion en segundos(clock): 0.000441
+Tiempo de ejecucion en segundos(time): 0.000000

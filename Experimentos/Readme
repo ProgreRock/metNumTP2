@@ -1,0 +1,4 @@
+Instrucciones de uso
+Compilar el archivo con make
+Ejecutar las pruebas con ./probador <carpeta de las pruebas>
+<carpeta de las pruebas> contiene los *.in de los tests
